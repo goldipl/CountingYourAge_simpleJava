@@ -20,15 +20,15 @@ public class JavaTestProject {
 		int second;
 		
 	// pobranie danych od uzytkownika
-		Scanner scanName = new Scanner(System.in);
+	Scanner scanName = new Scanner(System.in);
         System.out.println("What's your name?");
         name = scanName.nextLine();
         
-		Scanner scanSurname = new Scanner(System.in);
+	Scanner scanSurname = new Scanner(System.in);
         System.out.println("What's your surname?");
         surname = scanSurname.nextLine();
         
-		Scanner scanAge = new Scanner(System.in);
+	Scanner scanAge = new Scanner(System.in);
         System.out.println("How old are you?");
         age = scanAge.nextInt();
         

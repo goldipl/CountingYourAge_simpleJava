@@ -2,7 +2,7 @@
 * [Application name](#application-name)
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [License](#license)
+* [Author](#author)
 
 ## Application name
 Counting Your Age App
@@ -14,5 +14,5 @@ This simply program will show you how many months, days, hours, minutes, seconds
 Project is created with:
 * Java 11
 
-## License
-© Marcin Godlewski 2019
+## Author
+Marcin Godlewski

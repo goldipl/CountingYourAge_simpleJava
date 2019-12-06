@@ -11,7 +11,7 @@ Counting Your Age App
 This simply program will show you how many months, days, hours, minutes, seconds you have.
 	
 ## Technologies
-Project is created with:
+Project was created with:
 * Java 11
 
 ## Author
